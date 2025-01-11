@@ -1,0 +1,31 @@
+header {
+    background: #333;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+#profile-info {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
